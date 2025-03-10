@@ -24,6 +24,8 @@ Sample size: The data were collected from 30 Fitbit users; this sample is small 
 Bias: The data do not provide the demographic of the 30 users. Therefore, I cannot rule out data bias during data collection. 
 Demographics include but are not limited to age, gender, fitness level, occupation, family size, marital status, income, education, and religion.
 Outdated information: The data were collected in 2016.
+
+
 Process Phase The query used can be found [here](https://drive.google.com/file/d/1uw3-nUHULeLXIV16lpwADqjCsUw75bJ6/view?usp=sharing).
 I encountered issues with the big data error "file is too big" when opening a few CSV files directly in Microsoft Excel. I decided to clean the data in Google Sheets and RStudio. Due to sample size, I decided to combine/ merge the dataset to cover 3/12/2016 to 5/12/2016  Clean Data in Google Sheets.
  Out of the 29 data files, only 8 contained either primary, secondary, or relevant information, such as daily activity (one CSV file covering 3/12/2016 to 4/11/2016 and another daily activity CSV file covering 4/12/2016 to 5/12/2016).
