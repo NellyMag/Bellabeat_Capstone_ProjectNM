@@ -11,7 +11,7 @@ Insights and recommendations are provided in the following key areas:
 2. How could these trends apply to Bellabeat customers? 
 3. How could these trends help influence Bellabeat's marketing strategy? 
 
-Detailed process  [here](https://docs.google.com/document/d/1O0PrNqc1JXXkD2qI0nqdjr69Rff0G8-Dkf7AmQQVg3U/edit?usp=sharing).
+Detailed process  [here](https://drive.google.com/file/d/1utoIF88WcAzDPMLjWiuE4lj9CK91vSTr/view?usp=drive_link).
 
 <h2>Prepare Phase</h2>
 <h3>Data Source</h3>
@@ -59,7 +59,7 @@ I chose to work with the following data:
 
 <h4>RStudio</h4>
 
-The query used can be found [here](https://docs.google.com/document/d/1O0PrNqc1JXXkD2qI0nqdjr69Rff0G8-Dkf7AmQQVg3U/edit?usp=sharing).
+The query used can be found [here](https://drive.google.com/file/d/1utoIF88WcAzDPMLjWiuE4lj9CK91vSTr/view?usp=drive_link)
 
 <h2>Executive Summary</h2>
 
