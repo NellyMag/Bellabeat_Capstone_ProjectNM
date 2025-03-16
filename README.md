@@ -66,7 +66,7 @@ The query used can be found [here](https://drive.google.com/file/d/1utoIF88WcAzD
 Smartwatch users generally have low activity levels, indicating a lack of daily physical activity. Despite this, they engage in movement at various points throughout the day. Users with higher step counts tend to burn more calories, and activity is highest between 12 PM and 11 PM, especially in the afternoon. To improve health outcomes, I recommend creating a marketing campaign targeting users free during peak hours, encouraging them to increase their daily step count. Additionally, consider adding easy workout tutorials on the smartwatch app to guide less active users in exercising.
 
 
-![Image](https://github.com/user-attachments/assets/a94e9b18-50bc-43e1-935b-6e866eda585d)
+![Image](https://github.com/user-attachments/assets/4299e1fa-f8cb-4019-b58e-82f5606162bd)
 
 
 <h2>Recommendation</h2>
